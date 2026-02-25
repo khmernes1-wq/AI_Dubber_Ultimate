@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.3",
   "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.3/AI_Dubber_Ultimate_v1.1.3.exe",
   "release_notes": "🚀 New Features:\n✅ Groq AI Whisper Large v3 Turbo - បន្ថែម Groq transcription model (API-based, FAST & FREE!)\n✅ AssemblyAI Integration - បន្ថែម AssemblyAI models (Best & Nano) with word-level timestamps\n✅ Simplified UI - រៀបចំ interface សម្រួលប្រើប្រាស់ជាងមុន\n\n🗑️ Removed Features (Performance Optimization):\n❌ Local Whisper Model - ដកចេញ offline Whisper models ដើម្បីកាត់បន្ថយទំហំកម្មវិធី\n❌ PyTorch/CUDA Dependencies - លុបបំបាត់ torch, torchvision, torchaudio (~6GB saved!)\n❌ GPU Detection System - លុប CUDA/GPU auto-detection code\n❌ Device Selector - លុប CPU/GPU dropdown selector\n❌ Timing Adjustment Buttons - លុប -0.2s និង +0.2s buttons\n❌ Smart Sync Button - លុប auto-timing sync feature\n❌ Preview Button - លុប video preview button\n\n🎨 UI/UX Improvements:\n✅ Import/Export SRT Buttons - ផ្លាស់ទីមកខាងក្រោម bottom bar\n✅ Cleaner Top Bar - មានតែ buttons សំខាន់ៗ (Load, Model Selector, Transcribe)\n✅ Simplified Bottom Bar - Import SRT | Export SRT | Remove Vocal | Export MP3 | Export Video | CapCut\n✅ Fixed QComboBox Visibility - កែ model selector text ឲ្យឃើញច្បាស់\n\n⚡ Performance Improvements:\n✅ 6GB+ Disk Space Saved - មិនត្រូវ install heavy ML libraries\n✅ Faster Startup Time - program ចាប់ផ្តើមលឿនជាង\n✅ Lower RAM Usage - ប្រើ RAM តិចជាងមុន\n✅ Smaller Installation Size - file exe តូចជាងមុន\n\n🌐 Transcription Models Available:\n• Gemini 2.0 Flash (Online, FREE, 80+ languages)\n• Gemini 1.5 Flash (Online, FREE)\n• Gemini 1.5 Pro (Online, high quality)\n• Groq Whisper Large v3 Turbo (API, FREE, ultra-fast)\n• Groq Whisper Large v3 (API, FREE)\n• AssemblyAI Best (API, highest accuracy, word timestamps)\n• AssemblyAI Nano (API, 8x faster, 6x cheaper)\n\n💡 Note:\nកម្មវិធី version នេះ focus លើ cloud-based transcription models ដែល:\n✅ Free ឬ very affordable\n✅ មិនត្រូវការ GPU\n✅ លឿន និងត្រឹមត្រូវខ្ពស់\n✅ Support multi-language",
   "release_date": "2026-02-24",
@@ -10,3 +10,4 @@
     "note": "Upload file នេះទៅ GitHub repository ហើយ អ្នកប្រើប្រាស់នឹងទទួលបាន updates ស្វ័យប្រវត្តិ"
   }
 }
+
