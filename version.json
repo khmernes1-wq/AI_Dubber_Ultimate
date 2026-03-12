@@ -1,12 +1,12 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.4/AI_Dubber_Ultimate_v1.1.4.exe",
-  "release_notes": "🐛 Bug Fixes - SRT Import វាជាការកែប្រែសំខាន់:\n✅ កែបញ្ហា SRT Import - ឥឡូវនេះ import SRT files បានត្រឹមត្រូវហើយ!\n✅ Multiple Encoding Support - support UTF-8, UTF-8-sig, CP1252, Latin-1, ISO-8859-1, Windows-1252, GBK\n✅ Robust SRT Parser - parser រឹងមាំជាងមុន ប្រើ regex splitting និង flexible timestamp detection\n✅ Better Error Messages - បង្ហាញ error messages ច្បាស់លាស់ជាង\n✅ BOM Character Removal - លុប BOM characters ដែលធ្វើឱ្យ parsing error\n✅ Line Ending Normalization - normalize Windows/Mac/Linux line endings\n✅ Enhanced Debug Output - បន្ថែម debug logs ដើម្បី troubleshoot បានងាយ\n✅ Table Clearing Fix - clear existing data មុនពេល import SRT files ថ្មី\n✅ Empty File Validation - ពិនិត្យ file ថាមិនទទេមុនពេល parse\n✅ Timestamp Format Validation - validate timestamp format និង show detailed errors\n\n📝 What Was Fixed:\n• Fixed \"No valid subtitles found\" error when importing valid SRT files\n• Fixed missing parse_srt_timestamp() method in DubbingApp class\n• Fixed encoding detection for SRT files with different character sets\n• Fixed block parsing to handle various SRT file formats\n• Fixed empty text detection and validation\n\n🎯 Technical Improvements:\n✅ Added parse_srt_timestamp() method to DubbingApp class\n✅ Improved parse_srt() with regex-based block splitting\n✅ Added comprehensive error handling and logging\n✅ Added file content preview in debug output\n✅ Support for Khmer Unicode text in SRT files\n\n🌐 Models Still Available:\n• Gemini 2.0 Flash (Online, FREE, 80+ languages)\n• Gemini 1.5 Flash / Pro (Online, FREE)\n• Groq Whisper Large v3 Turbo (API, FREE, ultra-fast)\n• AssemblyAI Best / Nano (API, word timestamps)\n\n💡 Note:\nកម្មវិធី version 1.1.4 នេះ focus លើ:\n✅ កែបញ្ហា SRT import ដែល user រាល់គ្នាជួបប្រទះ\n✅ Support encoding ច្រើនប្រភេទសម្រាប់ SRT files\n✅ Parser រឹងមាំ និង stable ជាងមុន\n✅ Error messages ច្បាស់លាស់ជួយ debug បានងាយ",
-  "release_date": "2026-02-26",
+  "version": "1.1.5",
+  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.5/AI_Dubber_Ultimate_v1.1.5.exe",
+  "release_notes": "🚀 Update ថ្មី Version 1.1.6 មានអ្វីខ្លះ?\n✅ កែលម្អការបង្ហាញ Logo: ឥឡូវនេះពេល Add Logo វានឹងបង្ហាញលើ Video Preview ភ្លាមៗ (Real-time Preview) ដោយមិនចាំបាច់ចុច Apply មុននោះទេ!\n✅ ដោះស្រាយបញ្ហា Sync សំឡេង: កែសម្រួលឲ្យ Video និងសម្លេង (Dubbed Voice) ស៊ីគ្នាឥតខ្ចោះ 100% ពេលប្រើមុខងារ Video Speed Sync (បន្ថែមការគណនា Auto Adaptive Speed & Khmer Boost) \n✅ ធ្វើបច្ចុប្បន្នភាព Timeline: ដុំពណ៌នៅលើ Timeline នឹងលោតប្តូរទីតាំងដោយស្វ័យប្រវត្តិ ពេលកែល្បឿនវីដេអូរួចរាល់\n✅ កែកំហុស UI តូចតាចជុំវិញកម្មវិធី",
+  "release_date": "2026-03-12",
   "minimum_version": "1.0.0",
   "file_size_mb": 250,
   "instructions": {
-    "khmer": "Version 1.1.4 - SRT Import Bug Fixes 🐛✅",
+    "khmer": "Version 1.1.5 - Real-time Logo Preview & Perfect Video Speed Sync 🎬✨",
     "note": "Upload file នេះទៅ GitHub repository ហើយ អ្នកប្រើប្រាស់នឹងទទួលបាន updates ស្វ័យប្រវត្តិ"
   }
 }
