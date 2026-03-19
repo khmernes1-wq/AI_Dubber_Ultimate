@@ -1,12 +1,12 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.6/AI_Dubber_Ultimate_v1.1.6.exe",
-  "release_notes": "🚀 Update ថ្មី Version 1.1.6 មានអ្វីខ្លះ?\n✅ កែលម្អការ Preview វីដេអូពេលចូល Menu Detect ឲ្យត្រូវតាមពេលកំណត់នៃ SRT យ៉ាងត្រឹមត្រូវ (ជំនួស Frame ទៅជា Milliseconds)។\n✅ ជួសជុលបញ្ហាចុចប៊ូតុង Back ពេលកំពុងរើសសំឡេងប្រុស/ស្រីក្នុងពេលកាត់វីដេអូ (Menu Detect Error)។\n✅ ដោះស្រាយបញ្ហាជាប់ Temp Episode ចាស់ពេល Export Project ថ្មី។\n✅ ផ្ទៃកម្មវិធី Dark Mode ថ្មីទាន់សម័យ ងាយស្រួលមើល មិនស្រវាំងភ្នែក។\n✅ កែលម្អការ Sync វីដេអូ និង Table: ចុចលើជួរអត្ថបទក្នុង Table វីដេអូនឹងលោតដល់នាទីនោះ។",
-  "release_date": "2026-03-14",
+  "version": "1.1.7",
+  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.7/AI_Dubber_Ultimate_v1.1.7.exe",
+  "release_notes": "🚀 Update ថ្មី Version 1.1.7 មានអ្វីខ្លះ?\n✅ បន្ថែមមុខងារ Auto remove Vocal ដោយប្រើ Demucs នៅពេល Export វីដេអូចេញ!\n",
+  "release_date": "2026-03-18",
   "minimum_version": "1.0.0",
   "file_size_mb": 250,
   "instructions": {
-    "khmer": "Version 1.1.6 - Fix Sync Menu Detect & Export Bugs 🚀",
+    "khmer": "Version 1.1.7 - បន្ថែមមុខងារ Auto remove Vocal ដោយប្រើ Demucs លំដាប់ High Quality ជាអូតូម៉ាទីកពេល Export 🚀",
     "note": "Upload file នេះទៅ GitHub repository"
   }
 }
