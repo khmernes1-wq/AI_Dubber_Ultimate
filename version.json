@@ -1,12 +1,12 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.7/AI_Dubber_Ultimate_v1.1.7.exe",
-  "release_notes": "🚀 Update ថ្មី Version 1.1.7 មានអ្វីខ្លះ?\n✅ បន្ថែមមុខងារ Auto remove Vocal ដោយប្រើ Demucs នៅពេល Export វីដេអូចេញ!\n",
-  "release_date": "2026-03-18",
+  "version": "1.1.8",
+  "download_url": "https://github.com/khmernes1-wq/AI_Dubber_Ultimate/releases/download/v1.1.8/AI_Dubber_Ultimate_v1.1.8.exe",
+  "release_notes": "🚀 Update ថ្មី Version 1.1.8 មានអ្វីខ្លះ?\n✅ ថែមមុខងារបកប្រែសំឡេង Video ច្រើនក្នុងពេលតែមួយ \n✅ បង្កើនសុវត្ថិភាពទប់ស្កាត់ការកាត់ត Bypass (ចាំបាច់ត្រូវការ Internet)\n✅ កែប្រែផ្ទាំង Activation ចំណុចប្រទាក់ថ្មី និងងាយស្រួលទាក់ទង Admin\n✅ លុប Warning ចោល និងបង្កើនល្បឿនដំណើរការ",
+  "release_date": "2026-03-21",
   "minimum_version": "1.0.0",
   "file_size_mb": 250,
   "instructions": {
-    "khmer": "Version 1.1.7 - បន្ថែមមុខងារ Auto remove Vocal ដោយប្រើ Demucs លំដាប់ High Quality ជាអូតូម៉ាទីកពេល Export 🚀",
+    "khmer": "Version 1.1.8 - ផ្លាស់ប្តូរទៅប្រព័ន្ធ License តាមរយៈបរិស្ថាន Cloud (Google Sheets) ពេញលេញ 🚀",
     "note": "Upload file នេះទៅ GitHub repository"
   }
 }
